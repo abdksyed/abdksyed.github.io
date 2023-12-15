@@ -1,7 +1,7 @@
 ---
 title: "Medical Surgery Stream Segmentation to Detect and Track Robotic Tools"
 collection: Conference
-permalink: /publication/Medical_Surgery_Stream_Segmentation_to_Detect_and_Track_Robotic_Tools.pdf
+permalink: /publication/2024-02-05-XMem_EndoVis
 excerpt: 'This paper presents a real-time image robotic arm segmentation and tracking system that can operate on a continuous stream of endoscopic surgical videos.'
 date: 2024-02-05
 venue: 'IEEE International Conference on ARTIFICIAL INTELLIGENCE for MEDICINE, HEALTH, and CARE'
