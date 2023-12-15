@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ak home"
+title                    : "ak's home"
 title_separator          : "-"
 name                     : &name "Syed Abdul Khader"
 description              : &description "personal description"
